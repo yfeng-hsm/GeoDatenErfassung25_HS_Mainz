@@ -1,2 +1,3 @@
 # JSON-Dateien im data-Ordner ignorieren
 data/*.json
+*.html
