@@ -1,5 +1,5 @@
 # JSON-Dateien im data-Ordner ignorieren
 Uebung1/data/*.json
 Uebung2/model/*.pt
-Uebung2/graffiti_mapping_student.ipynb
+Uebung2/graffiti_mapping.ipynb
 *.html
